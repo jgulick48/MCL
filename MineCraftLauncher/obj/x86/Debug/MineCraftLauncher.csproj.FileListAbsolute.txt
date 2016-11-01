@@ -1,0 +1,9 @@
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\bin\Debug\MineCraftLauncher.exe
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\bin\Debug\MineCraftLauncher.pdb
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.MineCraftMonitor.resources
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.Properties.Resources.resources
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.csproj.GenerateResource.Cache
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.exe
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.pdb
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\bin\Debug\MineCraftLauncher.exe.config
+C:\Dev\hp locak\branches\MineCraftLauncher\MineCraftLauncher\obj\x86\Debug\MineCraftLauncher.csprojResolveAssemblyReference.cache
